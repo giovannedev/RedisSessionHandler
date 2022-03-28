@@ -1,5 +1,5 @@
 {
-    "name": "uma/redis-session-handler",
+    "name": "giovannedev/redis-session-handler",
     "description": "An alternative Redis session handler",
     "type": "library",
     "license": "MIT",
